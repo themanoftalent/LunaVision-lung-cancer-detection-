@@ -1,4 +1,4 @@
-# LUNA Lung Cancer Detection#
+# LUNA Lung Cancer Detection
 
 This project is a lung cancer detection system that uses the LUNA dataset. The goal of this project is to help doctors and researchers diagnose lung cancer at an early stage and improve patient outcomes. The system uses deep learning techniques to analyze medical images and identify potential cancerous regions.
 
